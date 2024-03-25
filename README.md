@@ -88,3 +88,22 @@ return valorDaDiaria;
 ```
 
 Para solucionar a última implementação usei o *if* e o *else* comparando meus dias reservados. Se (if) meu número de *DiasReservados* for maior ou igual a 10, ele retorna (aplica) o desconto de 10% em cima do *valorDaDiaria*, senão (else) ele retorna (aplica) o valor do cálculo normal. 
+
+<br>
+
+## 🔎 Detalhes do projeto
+
+📌 Este é um projeto de cunho educacional e faz parte da formação: **".NET Developer"** da DIO.
+<br>
+<br>
+
+<p align="left">
+  Caso queira entrar em contato: ⤵️
+</p>
+
+<p align="left">
+
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianycmc/)
+</p>
+
