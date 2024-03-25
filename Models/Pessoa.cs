@@ -1,3 +1,5 @@
+using System.Diagnostics.Contracts;
+
 namespace DesafioProjetoHospedagem.Models;
 
 public class Pessoa
